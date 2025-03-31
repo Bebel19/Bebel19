@@ -72,5 +72,3 @@ Passionate about embedded systems and autonomous devices, I take part in various
 ## Contact
 
 - **LinkedIn**: [Othman Belgnaoui](https://www.linkedin.com/in/othman-belgnaoui-79848340/)
-- **Personal website**: [belgnaoui.fr](https://belgnaoui.fr)
-- **Email**: othman@belgnaoui.fr

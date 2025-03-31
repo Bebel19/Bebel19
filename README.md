@@ -71,4 +71,4 @@ Passionné par les systèmes embarqués et les dispositifs autonomes, je m'inves
 
 ## Me contacter
 
-- **LinkedIn** : [Othman Belgnaoui](https://www.linkedin.com/in/othman-belgnaoui-79848340/)
+- **LinkedIn** : [Othman Belgnaoui](https://www.linkedin.com/in/othman-belgnaoui/)

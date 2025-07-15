@@ -65,7 +65,7 @@ Passionné par les systèmes embarqués et les dispositifs autonomes, je m'inves
 - **IA / Vision** : OpenCV, TensorFlow, SLAM
 - **Électronique / CAO** : LTSpice, Fusion 360, Altium
 
-> Chaque projet précise le nuage technologique et les librairies associées.
+> Chaque projet précise le stack technologique et les librairies associées.
 
 ---
 

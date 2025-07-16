@@ -12,7 +12,6 @@
 # Étudiant en Systèmes Robotiques et Interactifs
 
 UPSSITECH Toulouse | Promotion 2026  
-**Actuellement à la recherche d'une alternance à partir de septembre 2025**
 
 Passionné par les systèmes embarqués et les dispositifs autonomes, je m'investis dans des projets techniques variés alliant robotique, intelligence artificielle, perception et intégration logicielle. J'aime comprendre en profondeur les architectures et contribuer à des systèmes concrets, utiles et performants.
 

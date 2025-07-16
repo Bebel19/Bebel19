@@ -12,7 +12,6 @@
 # Master's Student in Robotic and Interactive Systems
 
 UPSSITECH Toulouse | Class of 2026  
-**Currently looking for an apprenticeship starting in September 2025**
 
 Passionate about embedded systems and autonomous devices, I take part in various technical projects combining robotics, artificial intelligence, perception, and system integration. I strive to deeply understand architectures and contribute to tangible, useful, and high-performance systems.
 

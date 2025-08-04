@@ -26,29 +26,29 @@ Passionné par les systèmes embarqués et les dispositifs autonomes, je m'inves
 
 ---
 
-## 📂 Projets en vedette
+## Projets en vedette
 
-### **🤖 Robot Explorateur Autonome – Projet fil rouge 1A SRI UPSSITECH (Interface, Backend, Raspberry)**
+### **Robot Explorateur Autonome – Projet fil rouge 1A SRI UPSSITECH (Interface, Backend, Raspberry)**
 - Interface de contrôle Angular (pilotage, commandes vocales, suivi de balle, cartographie)
 - Backend Flask avec traitement LIDAR, vidéo, audio, communication robot
 - Raspberry Pi pour la capture des données capteurs, stream caméra et gestion du LIDAR
 - **Stack** : Angular, Flask, Python, OpenCV, SpeechRecognition, LIDAR, SocketIO
 - 🔗 [Interface](https://github.com/Bebel19/interface_robot_explorateur) · [Backend](https://github.com/MaelaViguier/mobile_robot_backend) · [Raspberry](https://github.com/Bebel19/stream_rpi_robot_explorateur)
 
-### **🦼 Monitoring pour les coach de Rugby en fauteuil - Summer school**
+### **Monitoring pour les coach de Rugby en fauteuil - Summer school**
 - Backend Flask avec base de données SQLite pour capteurs (BPM, température, chocs)
 - Frontend Angular pour visualisation live, historique matchs, profils joueurs
 - Utilisé en summer school inter-universitaire (UPSSITECH, Ostfalia, Wuerzburg, Munster)
 - **Stack** : Flask, SQLAlchemy, Angular, WebSocket
 - 🔗 [Backend](https://github.com/Bebel19/rugby_wheelchair_backend) · [Frontend](https://github.com/GuyBorel/interface_rugby_wheelchair_FE/tree/guy)
 
-### **🦾 Interface AR4 MK3 – Bras robotique industriel - Stand'UPS robotique**
+### **Interface AR4 MK3 – Bras robotique industriel - Stand'UPS robotique**
 - Interface Angular pour le pilotage du bras AR4 MK3 et paramétrage DH
 - Communication WebSocket pour commandes temps réel (moteurs, broches, G-code)
 - **Stack** : Angular, SocketIO
 - 🔗 [Repo](https://github.com/Bebel19/AR4_MK3_hmi)
 
-### **🌀 Génération de trajectoire circulaire – Robot RRR RX160 2A SRI UPSSITECH**
+### **Génération de trajectoire circulaire – Robot RRR RX160 2A SRI UPSSITECH**
 - Modélisation géométrique et différentielle d’un bras manipulateur 3DOF
 - Génération de trajectoires circulaires en espace opérationnel et articulaire
 - **Stack** : Python, NumPy, Matplotlib

@@ -17,15 +17,6 @@ Passionné par les systèmes embarqués et les dispositifs autonomes, je m'inves
 
 ---
 
-## Stats GitHub 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bebel19&show_icons=true&theme=default" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bebel19&layout=compact&langs_count=8&hide=html" width="50%" />
-</p>
-
----
-
 ## Projets en vedette
 
 ### **Robot Explorateur Autonome – Projet fil rouge 1A SRI UPSSITECH (Interface, Backend, Raspberry)**

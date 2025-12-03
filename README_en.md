@@ -17,15 +17,6 @@ Passionate about embedded systems and autonomous devices, I take part in various
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bebel19&show_icons=true&theme=default" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bebel19&layout=compact&langs_count=8&hide=html" width="50%" />
-</p>
-
----
-
 ## 📂 Featured Projects
 
 ### **🤖 Autonomous Explorer Robot – Capstone Project (Interface, Backend, Raspberry Pi)**

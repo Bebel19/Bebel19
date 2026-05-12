@@ -25,7 +25,7 @@ Passionate about embedded systems and autonomous devices, I take part in various
 - Angular frontend for live visualizations, match history, player profiles
 - Presented at an international summer school (UPSSITECH, Ostfalia, Wuerzburg, Munster)
 - **Stack**: Flask, SQLAlchemy, Angular, WebSocket
-- 🔗 [Backend](https://github.com/Bebel19/rugby_wheelchair_backend) · [Frontend](https://github.com/GuyBorel/interface_rugby_wheelchair_FE/tree/guy)
+- 🔗 [Backend](https://github.com/Bebel19/rugby_wheelchair_backend) · [Frontend](https://github.com/GuyBorel/interface_rugby_wheelchair_FE)
 
 ### **🦾 AR4 MK3 HMI – Industrial Robotic Arm Interface**
 - Angular interface for controlling AR4 MK3 arm and Denavit-Hartenberg settings

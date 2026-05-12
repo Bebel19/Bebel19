@@ -1,11 +1,5 @@
-<div align="right">
-  <a href="README.md">
-    <img src="https://img.shields.io/badge/lang-fr-red" alt="Version française">
-  </a>
-  <a href="README_en.md">
-    <img src="https://img.shields.io/badge/lang-en-blue" alt="English version">
-  </a>
-</div>
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
+[![Français](https://img.shields.io/badge/lang-Français-red.svg)](README.fr.md)
 
 ---
 

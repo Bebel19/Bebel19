@@ -18,7 +18,7 @@ Passionné par les systèmes embarqués et les dispositifs autonomes, je m'inves
 - Backend Flask avec traitement LIDAR, vidéo, audio, communication robot
 - Raspberry Pi pour la capture des données capteurs, stream caméra et gestion du LIDAR
 - **Stack** : Angular, Flask, Python, OpenCV, SpeechRecognition, LIDAR, SocketIO
-- 🔗 [Interface](https://github.com/Bebel19/interface_robot_explorateur) · [Backend](https://github.com/MaelaViguier/mobile_robot_backend) · [Raspberry](https://github.com/Bebel19/stream_rpi_robot_explorateur)
+- 🔗 [Interface](https://github.com/Bebel19/interface_robot_explorateur) · [Backend](https://github.com/MaelaViguier/mobile_robot_backend) · [Raspberry](https://github.com/Bebel19/robot_explorateur_raspberry)
 
 ### **Monitoring pour les coach de Rugby en fauteuil - Summer school**
 - Backend Flask avec base de données SQLite pour capteurs (BPM, température, chocs)
